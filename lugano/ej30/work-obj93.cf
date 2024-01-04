@@ -1,0 +1,19 @@
+v 4
+file "/home/dlugano/Digitales_I/tdi_r3052_tpi_2022/alumnos/lugano/ej30/" "sim/full_adder_generic_tb.vhd" "4ad292c55ac17e7f1ebf4bb13dbb403e1dcce12f" "20221129182501.998":
+  entity full_adder_generic_tb at 1( 0) + 0 on 21;
+  architecture simulation of full_adder_generic_tb at 14( 264) + 0 on 22;
+file "/home/dlugano/Digitales_I/tdi_r3052_tpi_2022/alumnos/lugano/ej30/" "sim/pkg/report_pkg.vhd" "08a2bb20d0bc1952d67bcd4c9a51f852e6b46c70" "20221129182501.997":
+  package report_pkg at 1( 0) + 0 on 19 body;
+  package body report_pkg at 37( 809) + 0 on 20;
+file "/home/dlugano/Digitales_I/tdi_r3052_tpi_2022/alumnos/lugano/ej30/" "sim/pkg/random_stim_pkg.vhd" "c9ec5efc56c3c1b86d6f568f66a1b60d09279635" "20221129182501.996":
+  package random_stim_pkg at 1( 0) + 0 on 17 body;
+  package body random_stim_pkg at 29( 700) + 0 on 18;
+file "/home/dlugano/Digitales_I/tdi_r3052_tpi_2022/alumnos/lugano/ej30/" "sim/pkg/gldn_mdl_pkg.vhd" "24e3c225a22964232ae648aa8c729d5ce94481ee" "20221129182501.995":
+  package gldn_mdl_pkg at 1( 0) + 0 on 15 body;
+  package body gldn_mdl_pkg at 187( 7100) + 0 on 16;
+file "/home/dlugano/Digitales_I/tdi_r3052_tpi_2022/alumnos/lugano/ej30/" "rtl/full_adder_generic.vhd" "ba732e35d2ece0098cf6323a9d3c3d42484b9990" "20221129182501.992":
+  entity full_adder_generic at 1( 0) + 0 on 13;
+  architecture arch of full_adder_generic at 19( 362) + 0 on 14;
+file "/home/dlugano/Digitales_I/tdi_r3052_tpi_2022/alumnos/lugano/ej30/" "rtl/full_adder_cell.vhd" "421c66a8c6e07ffc5f0a3613ace838c5fc8f2c3f" "20221129182501.991":
+  entity full_adder_cell at 1( 0) + 0 on 11;
+  architecture arch of full_adder_cell at 13( 207) + 0 on 12;
